@@ -1,0 +1,7 @@
+sceneSetups:
+- path: Assets/ML-Agents/Examples/Crawler/Crawler.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Main.unity
+  isLoaded: 1
+  isActive: 1
